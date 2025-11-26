@@ -2,9 +2,7 @@
 Use natural-language processing (NLP) to predict stock price movement based on Reuters News
 
   
-## Website
 
-You are welcome to visit our website: [GolenRocks.me](http://goldenrocks.me/). The main purpose of this project is to build the connection between Bayesian DNN and stock price prediction based on News headline. 
 
 ## Methodology
 
